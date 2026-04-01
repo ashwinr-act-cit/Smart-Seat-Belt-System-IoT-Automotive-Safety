@@ -29,7 +29,7 @@ Servo myServo;         // Create Servo object for ESP32
 #define WIFI_PASSWORD "ashwin07"
 
 // Insert Firebase project API Key
-#define API_KEY "AIzaSyA9l-tZNm2kMVIXrroVUw4GoasQfLEHvhg"
+#define API_KEY "A##################################"
 
 // Insert RTDB URL
 #define DATABASE_URL "https://anbsfgjf-default-rtdb.firebaseio.com/"
